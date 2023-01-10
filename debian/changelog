@@ -1,3 +1,9 @@
+purple-slack (20221219-1) UNRELEASED; urgency=medium
+
+  * Add login workaround
+
+ -- Merlijn Wajer <merljn@wizzup.org>  Tue, 10 Jan 2023 18:13:26 +0100
+
 purple-slack (20221211-1) UNRELEASED; urgency=medium
 
   * Initial Maemo Leste import
