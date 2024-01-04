@@ -435,7 +435,7 @@ static PurplePluginProtocolInfo prpl_info = {
 		/* TODO, requires redirecting / commands to hidden API: | OPT_PROTO_SLASH_COMMANDS_NATIVE */,
 	NULL,			/* user_splits */
 	NULL,			/* protocol_options */
-	NO_BUDDY_ICONS,
+	{"png,jpg,jpeg", 0, 0, 96, 96, 0, PURPLE_ICON_SCALE_DISPLAY},
 	slack_list_icon,	/* list_icon */
 	NULL,			/* list_emblems */
 	slack_status_text,	/* status_text */
