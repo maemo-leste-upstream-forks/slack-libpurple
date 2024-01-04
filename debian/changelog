@@ -1,3 +1,9 @@
+purple-slack (20240103-1) UNRELEASED; urgency=medium
+
+  * Add icons for slack contacts
+
+ -- Merlijn Wajer <merljn@wizzup.org>  Thu, 04 Jan 2024 23:53:35 +0100
+
 purple-slack (20221219-1) UNRELEASED; urgency=medium
 
   * Add login workaround
